@@ -5,11 +5,11 @@
 .cover {
   margin: 0 auto;
   background-image: url(../../images/cover-route-66.jpg);
-  background-size: cover;
+  background-size: 125% 100%;
   background-position: center;
-  color: #ffffff;
+  width: 92.5%;
+  max-width: 1184px;
   height: 90vh;
-  box-sizing: border-box;
   min-width: 320px;
   min-height: 200px;
   position: relative;
