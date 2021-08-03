@@ -9,4 +9,4 @@ A website about traveling across the US, including link with information about a
 * Flexbox and Grid to position the elements.
 * BEM to structure files and markup.
 
-### Link to github pages: https://thegsgs.github.io/Portland_3/
+### Link to github pages: https://thegsgs.github.io/web_project_3/
