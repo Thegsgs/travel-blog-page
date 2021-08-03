@@ -17,7 +17,7 @@
   grid-template-areas: "title website"
                        "picture text"
                        "picture text"
-                       "picture text"
+                       "picture text";
 }
 
 @media screen and (max-width: 1024px) {
