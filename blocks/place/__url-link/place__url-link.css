@@ -1,0 +1,13 @@
+.place__url-link {
+  margin: 0;
+  text-decoration: underline;
+  color: white;
+  font-family: 'Inter var', sans-serif;
+  font-size: 18px;
+  line-height: 101%;
+  transition: opacity .1s linear;
+}
+
+.place__url-link:hover {
+  opacity: .6;
+}
