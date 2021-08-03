@@ -3,14 +3,14 @@
   grid-area: picture;
 }
 
-@media screen and (max-width : 768px) {
+@media screen and (max-width: 768px) {
   .place__image {
     width: 340px;
     height: auto;
   }
 }
 
-@media screen and (max-width : 400px) {
+@media screen and (max-width: 400px) {
   .place__image {
     margin-bottom: 32px;
     width: 100%;

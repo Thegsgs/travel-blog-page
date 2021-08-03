@@ -9,7 +9,7 @@
   vertical-align: top;
 }
 
-@media screen and (max-width : 768px) {
+@media screen and (max-width: 768px) {
   .lead__subtitle {
     width: 90%;
     font-size: 16px;
@@ -17,7 +17,7 @@
   }
 }
 
-@media screen and (max-width : 400px) {
+@media screen and (max-width: 400px) {
   .lead__subtitle {
     font-size: 16px;
     line-height: 103%;

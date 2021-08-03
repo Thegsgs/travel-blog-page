@@ -20,7 +20,7 @@
                        "picture text"
 }
 
-@media screen and (max-width : 1024px) {
+@media screen and (max-width: 1024px) {
   .place {
     width: 90%;
     grid-gap: 0 32px;
@@ -28,7 +28,7 @@
 
 }
 
-@media screen and (max-width : 768px) {
+@media screen and (max-width: 768px) {
   .place {
     width: 93%;
     grid-gap: 0 28px;
@@ -37,7 +37,7 @@
 
 }
 
-@media screen and (max-width : 400px) {
+@media screen and (max-width: 400px) {
   .place {
     display: inline-grid;
     width: 100%;
