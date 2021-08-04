@@ -7,8 +7,13 @@
   max-width: 1184px;
   min-width: 320px;
   color: white;
-  aspect-ratio: calc(8/5);
   position: relative;
+}
+
+.cover:after {
+  padding-top: 62.5%;
+  display: flex;
+  content: '';
 }
 
 @media screen and (max-width: 1024px) {

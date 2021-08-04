@@ -1,4 +1,9 @@
 .cover__title {
+  width: 100%;
+  position: absolute;
+  top: calc((283 / 740) * 100%);
+  left: 50%;
+  transform: translate(-50%, -50%);
   margin: 0;
   text-decoration: none;
   max-width: 656px;
