@@ -7,7 +7,7 @@
   max-width: 1184px;
   min-width: 320px;
   color: white;
-  aspect-ratio: 8 / 5;
+  aspect-ratio: calc(8/5);
   position: relative;
 }
 
