@@ -10,7 +10,7 @@
   }
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 660px) {
   .intro__text-container {
     padding: 0 16px;
   }
