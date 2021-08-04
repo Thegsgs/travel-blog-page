@@ -1,9 +1,16 @@
 .cover__title {
-  margin: 0 0 32px;
-  font-family: 'Inter var', sans-serif;
+  text-decoration: none;
+  max-width: 656px;
+  color: white;
+  position: relative;
+  top: 38.2%;
+  left: 50%;
+  transform: translateX(-50%);
+  margin: 0;
+  font-family: 'Inter', sans-serif;
   font-size: 72px;
-  line-height: 87%;
-  font-weight: bold;
+  line-height: 76px;
+  font-weight: 900;
   text-align: center;
   z-index: 2;
 }
@@ -12,6 +19,6 @@
   .cover__title {
     margin-bottom: 16px;
     font-size: 32px;
-    line-height: 90%;
+    line-height: 35px;
   }
 }

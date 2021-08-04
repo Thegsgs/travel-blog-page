@@ -2,12 +2,12 @@
   margin: 0;
   text-decoration: underline;
   color: white;
-  font-family: 'Inter var', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 18px;
-  line-height: 101%;
+  line-height: 22px;
   transition: opacity .1s linear;
 }
 
 .place__url-link:hover {
-  opacity: .6;
+  opacity: .8;
 }

@@ -10,8 +10,7 @@
 
 @media screen and (max-width: 400px) {
   .footer__list {
-    height: 136px;
-    display: flex;
     flex-direction: column;
+    min-height: 136px;
   }
 }
