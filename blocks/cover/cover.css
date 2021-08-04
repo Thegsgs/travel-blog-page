@@ -6,11 +6,10 @@
   margin: 0 auto;
   background-image: url(../../images/cover-route-66.jpg);
   background-size: cover;
-  background-position: center center;
+  background-position: center;
   width: 92.5%;
   max-width: 1184px;
   min-width: 320px;
-  max-height: 743px;
   color: white;
   aspect-ratio: 8 / 5;
   position: relative;
@@ -20,12 +19,4 @@
   .cover {
     width: 100%;
   }
-}
-
-@media screen and (max-width: 768px) {
-  .cover {}
-}
-
-@media screen and (max-width: 400px) {
-  .cover {}
 }

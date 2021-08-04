@@ -9,3 +9,5 @@
 @import url(../blocks/cover/cover.css);
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/logo/logo.css);
+@import url(../blocks/header/__lang-link/_selected/header__lang-link_selected.css);
+@import url(../blocks/intro/__subtitle/intro__subtitle.css);
