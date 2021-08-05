@@ -1,5 +1,5 @@
 .footer {
-  width: 90%;
+  width: 92.5%;
   max-width: 1184px;
   margin: 92px auto 0;
   padding-bottom: 24px;
@@ -8,11 +8,16 @@
   justify-content: space-between;
 }
 
+@media screen and (max-width: 768px) {
+  .footer {
+    width: 93.75%;
+  }
+}
+
 @media screen and (max-width: 660px) {
   .footer {
     margin-top: 64px;
-    padding-left: 16px;
-    padding-right: 16px;
+    padding: 0 16px 24px;
     flex-direction: column;
   }
 }
