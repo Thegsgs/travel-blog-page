@@ -6,14 +6,10 @@
   width: 92.5%;
   max-width: 1184px;
   min-width: 320px;
+  display: flex;
   color: white;
   position: relative;
-}
 
-.cover:after {
-  padding-top: 62.5%;
-  display: flex;
-  content: '';
 }
 
 @media screen and (max-width: 1024px) {
