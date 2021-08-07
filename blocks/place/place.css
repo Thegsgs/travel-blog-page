@@ -41,5 +41,7 @@
                           "picture"
                           "text";
   }
-
+  .place:last-of-type {
+    margin-bottom: 62px;
+  }
 }
