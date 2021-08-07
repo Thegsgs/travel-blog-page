@@ -10,6 +10,10 @@
                         "picture text";
 }
 
+.place:last-of-type {
+  margin-bottom: 92px;
+}
+
 @media screen and (max-width: 1024px) {
   .place {
     width: 90%;
@@ -36,5 +40,8 @@
                           "website"
                           "picture"
                           "text";
+  }
+  .place:last-of-type {
+    margin-bottom: 62px;
   }
 }
