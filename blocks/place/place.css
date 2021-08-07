@@ -4,7 +4,7 @@
   margin: 0 auto 80px;
   color: white;
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: calc((460/984) * 100%);
   grid-gap: 48px 40px;
   grid-template-areas:  "title website"
                         "picture text";
