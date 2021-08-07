@@ -7,15 +7,13 @@
   grid-template-columns: repeat(2, 1fr);
   grid-gap: 48px 40px;
   grid-template-areas:  "title website"
-                        "picture text"
-                        "picture text"
                         "picture text";
 }
 
 @media screen and (max-width: 1024px) {
   .place {
     width: 90%;
-    grid-gap: 0 32px;
+    grid-gap: 26px 32px;
   }
 }
 
@@ -30,6 +28,7 @@
 @media screen and (max-width: 660px) {
   .place {
     display: grid;
+    grid-gap: 0;
     width: 100%;
     margin: 0 auto 48px;
     grid-template-columns: auto;
